@@ -50,11 +50,10 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
 		</dependency>
-		
 		<dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-validator</artifactId>
-            <version>4.2.0.Final</version>
+            <version>5.4.0.Final</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/javax.validation/validation-api -->
 		<dependency>
@@ -80,5 +79,6 @@
 			</plugin>
 		</plugins>
 	</build>
+	
 
 </project>
